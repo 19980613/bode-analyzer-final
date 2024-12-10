@@ -1,0 +1,6 @@
+﻿  BodeAnalyzer.cpp
+C:\Users\micha\source\repos\Bode Analyzer\Bode Analyzer\BodeAnalyzer.cpp(32,16): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\micha\source\repos\Bode Analyzer\Bode Analyzer\BodeAnalyzer.cpp(64,21): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  main.cpp
+  Code wird generiert...
+  Bode Analyzer.vcxproj -> C:\Users\micha\source\repos\Bode Analyzer\Bode Analyzer\x64\Debug\Bode Analyzer.exe

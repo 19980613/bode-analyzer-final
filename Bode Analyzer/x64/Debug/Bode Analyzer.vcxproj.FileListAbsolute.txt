@@ -1,0 +1,2 @@
+C:\Users\micha\source\repos\Bode Analyzer\Bode Analyzer\x64\Debug\Bode Analyzer.exe
+C:\Users\micha\source\repos\Bode_Analyzer_20241210\Bode Analyzer\x64\Debug\Bode Analyzer.exe
